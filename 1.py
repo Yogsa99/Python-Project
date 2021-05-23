@@ -77,8 +77,6 @@ path = os.path.join(path, keyword[1:] + "s")
 #create the directory
 os.mkdir(path)
 
-path
-
 #download images
 counter = 0
 for image in images:
